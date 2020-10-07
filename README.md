@@ -114,8 +114,8 @@ I am looking for opportunities where I can continue to learn, whilst solving rea
 
 ## Experience
 
-**[Flywire](https://www.flywire.com/)    Global Client Success Associate**<br>
-_(August 2018 - May 2020)_
+**[Flywire](https://www.flywire.com/)  (August 2018 - May 2020) **<br>
+_Global Client Success Associate_
 
 Main Responsibilities:
 - Client facing role involving solving issues and providing support to our clients to ensure they were up to date with changes within the company.
@@ -131,8 +131,8 @@ Main Responsibilities:
 - Smoothly learned and transitioned all data from salesforce to zendesk to provide support to our clients which was more cost effective for the company.
 
 
-**[PricewaterCooper (PwC)](https://www.pwc.co.uk/who-we-are/regional-sites/south-east/offices/uxbridge-office.html)     Intern**<br>
-_(June 2017 - June 2017)_
+**[PricewaterhouseCoopers (PwC)](https://www.pwc.co.uk/who-we-are/regional-sites/south-east/offices/uxbridge-office.html),  (June 2017 - June 2017)**<br>
+_Intern_
 
 Main Responsibilities:
 - Completed a thorough research on pwc's clients and completed several pitching in front of Managers as well as receiving valuable feedback.
@@ -177,7 +177,7 @@ _(September 2015 - June 2018)_
 
 **Loreto Convent - Letterkenny**
 _(September 2014 - July 2015)_ 
-- Irish Leavinng Certificate (Irish Equivalent to A-Levels): Maths(B), Irish(B), English Literature(B), Physics & Chemistry(combined)(C), Biology(C), French(C)
+- Irish Leavinng Certificate (Irish Equivalent to A-Levels - Honours Level): Maths(B), Irish(B), English Literature(B), Physics & Chemistry(combined)(C), Biology(C), French(C)
 
 ## Hobbies
 - <strong>Traveling: </strong>Being born in Ghana, raised in Ireland and moving to England has taught me there is so much to embrace in different cultures.
