@@ -12,11 +12,11 @@
 
 
 [Projects](#projects) |
+[Experience](#experience) |
 [Skills](#skills) |
 [Education](#education) |
-[Experience](#experience) |
-[Interests](#interests) |
-[Things I am glad I did](#things)
+[Others](#hobbies) |
+
 
 </div>
 
@@ -117,7 +117,7 @@ I am looking for opportunities where I can continue to learn, whilst solving rea
 **[Flywire](https://www.flywire.com/)  (August 2018 - May 2020)**<br>
 _Global Client Success Associate_
 
-<h4><strong>Main Responsibilities:</strong></h4>
+Main Responsibilities:
 - Client facing role involving solving issues and providing support to our clients to ensure they were up to date with changes within the company.
 - Worked with several tools including trello, salesforce lightning, zendesk, Jira, confluence to ensure completed quality work.
 - Gathered and analysed data for clients and proposed ways to enable them to grow in revenue.
@@ -134,7 +134,7 @@ _Global Client Success Associate_
 **[PricewaterhouseCoopers (PwC)](https://www.pwc.co.uk/who-we-are/regional-sites/south-east/offices/uxbridge-office.html),  (June 2017 - June 2017)**<br>
 _Intern_
 
-<h4><strong>Main Responsibilities:</strong></h4>
+Main Responsibilities:
 - Completed a thorough research on pwc's clients and completed several pitching in front of Managers as well as receiving valuable feedback.
 - Prepared and quality checked each data and information given.
 - Assisted with the resolution of queries within my team.
