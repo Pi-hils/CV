@@ -21,9 +21,11 @@
 </div>
 
 
-<p align="center">I am an ambitious, creative and self-motivated <strong>Full Stack Developer</strong> who enjoys solving complex problems and helping my team to succeed. As I take genuine pleasure in dissecting concepts to examine what works best and why it works or does nnot work, I decided to study at on eof Europe's leading coding bootcamp, Makers Academy. 
+<p align="center">
+I am an ambitious, creative and self-motivated <strong>Full Stack Developer</strong> who enjoys solving complex problems and helping my team to succeed. As I take genuine pleasure in dissecting concepts to examine what works best and why it works or does not work, I decided to study at one of Europe's leading coding bootcamp, Makers Academy.</p>
 
-I am looking for opportunities where I can continue to learn, whilst solving real-world problems with a team of ambitious people.</p>
+<p align="center">I am looking for opportunities where I can continue to learn, whilst solving real-world problems with a team of ambitious people.
+</p>
 
 
 <h3 align="center"><strong>Where to find me</strong></h3> 
