@@ -114,10 +114,10 @@ I am looking for opportunities where I can continue to learn, whilst solving rea
 
 ## Experience
 
-**[Flywire](https://www.flywire.com/)  (August 2018 - May 2020) **<br>
+**[Flywire](https://www.flywire.com/)  (August 2018 - May 2020)**<br>
 _Global Client Success Associate_
 
-Main Responsibilities:
+<h4><strong>Main Responsibilities:</strong></h4>
 - Client facing role involving solving issues and providing support to our clients to ensure they were up to date with changes within the company.
 - Worked with several tools including trello, salesforce lightning, zendesk, Jira, confluence to ensure completed quality work.
 - Gathered and analysed data for clients and proposed ways to enable them to grow in revenue.
@@ -134,7 +134,7 @@ Main Responsibilities:
 **[PricewaterhouseCoopers (PwC)](https://www.pwc.co.uk/who-we-are/regional-sites/south-east/offices/uxbridge-office.html),  (June 2017 - June 2017)**<br>
 _Intern_
 
-Main Responsibilities:
+<h4><strong>Main Responsibilities:</strong></h4>
 - Completed a thorough research on pwc's clients and completed several pitching in front of Managers as well as receiving valuable feedback.
 - Prepared and quality checked each data and information given.
 - Assisted with the resolution of queries within my team.
@@ -172,15 +172,16 @@ A 16-week intensive Software Enginneering Bootcamp
 
 **Brunel University**
 _(September 2015 - June 2018)_ 
-- BSc Sports, Health, Exercise Sciences<br>
-2.1
+- BSc Sports, Health, Exercise Sciences
+- 2.1
 
 **Loreto Convent - Letterkenny**
 _(September 2014 - July 2015)_ 
-- Irish Leavinng Certificate (Irish Equivalent to A-Levels - Honours Level): Maths(B), Irish(B), English Literature(B), Physics & Chemistry(combined)(C), Biology(C), French(C)
+- Irish Leavinng Certificate (Irish Equivalent to A-Levels) 
+- Honours Level: Maths(B), Irish(B), English Literature(B), Physics & Chemistry(combined)(C), Biology(C), French(C)
 
 ## Hobbies
-- <strong>Traveling: </strong>Being born in Ghana, raised in Ireland and moving to England has taught me there is so much to embrace in different cultures.
+- <strong>Traveling: </strong>Being born in Ghana, raised in Ireland and moving to England has taught me there is so much to embrace other cultures.
 - <strong>Photography: </strong>I believe life for about capturing moments and memories that cannot be tanngibly held.
 - <strong>Outdoor: </strong> I love all things that has to do with being outdoors, from cycling, to playing football, to greeting people on the streets to just sitting outside.
 
