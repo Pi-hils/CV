@@ -3,6 +3,7 @@
 <p align="center">
 
 
+
 <!-- <a href="https://www.linkedin.com/in/hilda-amponsah-0a0129124/">
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a> -->
 
@@ -17,7 +18,10 @@
 [Education](#education) |
 [Others](#hobbies) |
 
+## Who am I?
 
+<div align="center"><a href="https://serene-albattani-8a66fd.netlify.app"/>www.hilda.com</a></div>
+<br>
 </div>
 
 
@@ -184,13 +188,13 @@ _(September 2014 - July 2015)_
 
 ## Hobbies
 - <strong>Traveling: </strong>Being born in Ghana, raised in Ireland and moving to England has taught me there is so much to embrace other cultures.
-- <strong>Photography: </strong>I believe life for about capturing moments and memories that cannot be tanngibly held.
+- <strong>Photography: </strong>I believe life for about capturing moments and memories that cannot be tangibly held.
 - <strong>Outdoor: </strong> I love all things that has to do with being outdoors, from cycling, to playing football, to greeting people on the streets to just sitting outside.
 
 ## Things I am glad I did
 - I am glad I was relentless in my purrsuit to become a full stack developer.
 - Stepping outside my comfort zone and into purpose, using my creativity and collaboration skills to my advantage to help raise money to build a school so children can have a safe, well ventilated and learning-friendly environment to grow.
-- Collaborated with 4 women in different countries at the start of covid-19, to help create a directory to help [domestic abuse victims](https://obscure-crag-98442.herokuapp.com/).
+- Collaborated with 3 strangers in different countries at the start of covid-19, to help create a directory to help [domestic abuse victims](https://obscure-crag-98442.herokuapp.com/).
 
 <!-- Badges -->
 [linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
