@@ -3,10 +3,6 @@
 <p align="center">
 
 
-
-<!-- <a href="https://www.linkedin.com/in/hilda-amponsah-0a0129124/">
-<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a> -->
-
  <div align="center">
  
  [![Employment status !](https://img.shields.io/badge/Employment%20status-pending..-1abc9c.svg)](https://github.com/Pi-hils)
@@ -20,7 +16,7 @@
 
 ## Who am I?
 
-<div align="center"><a href="https://serene-albattani-8a66fd.netlify.app"/>www.hilda.com</a></div>
+<div align="center"><a href="https://serene-albattani-8a66fd.netlify.app" target="_black"/>www.hilda.com</a></div>
 <br>
 </div>
 
@@ -32,7 +28,7 @@ I am an ambitious, creative and self-motivated <strong>Full Stack Developer</str
 </p>
 
 
-<h3 align="center"><strong>Where to find me</strong></h3> 
+<h2 align="center"><strong>Where to find me</strong></h2> 
 <div align="center">
 
 [![LinkedIn Profile]](https://www.linkedin.com/in/hilda-amponsah-0a0129124/)
@@ -81,6 +77,7 @@ I am an ambitious, creative and self-motivated <strong>Full Stack Developer</str
           <li>PostgreSQL</li>
           <li>Travis CI</li>
           <li>Heroku</li>
+          <li>Netlify</li>
         </ul>
       </td>
       <td style="vertical-align: top">
@@ -162,13 +159,12 @@ At Makers, we were continually pushed to stretch ourselves and develop our skill
 Working within a global Fintech company created countless opportunities to work collaboratively, adapt swiftly to any environment, as well as develop my leadership skills. Within 2 months of joining the organisation, I took the responsibility of owning an entire Escrow Account process. This meant that I was dealing with both our clients in Ireland and customers from across the globe who needed to enter into Ireland for education. As the clients increased in number, I offered training and frequent virtual meetings with colleagues in Singapore, Spain and America as well as other departments such as the Operations team and our software engineers to keep them all updated and anticipate issues that may occur. I collaborated with our product managers to offer feedback and create tools to improve the processes. Coming from a sporting background to a Fintech and taking responsibility for an entire process within that short period of time is evidence that I enjoy adapting and thriving in a collaborative and ambitious space.
 <br>
 
-
 ## Education
 
 **Makers Academy**
 _(June 2020 - September 2020)_
 
-A 16-week intensive Software Enginneering Bootcamp
+A 16-week intensive Software Enginneering bootcamp
 
 - The principles of object-oriented design and test-driven development
 - How to write and maintain clean, reliable code
@@ -187,9 +183,9 @@ _(September 2014 - July 2015)_
 - Honours Level: Maths(B), Irish(B), English Literature(B), Physics & Chemistry(combined)(C), Biology(C), French(C)
 
 ## Hobbies
-- <strong>Traveling: </strong>Being born in Ghana, raised in Ireland and moving to England has taught me there is so much to embrace other cultures.
-- <strong>Photography: </strong>I believe life for about capturing moments and memories that cannot be tangibly held.
-- <strong>Outdoor: </strong> I love all things that has to do with being outdoors, from cycling, to playing football, to greeting people on the streets to just sitting outside.
+- Traveling
+- Photography 
+- Outdoor 
 
 ## Things I am glad I did
 - I am glad I was relentless in my purrsuit to become a full stack developer.
