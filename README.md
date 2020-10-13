@@ -156,7 +156,7 @@ At Makers, we were continually pushed to stretch ourselves and develop our skill
 
 <br>
 <h4><strong>Teamwork | Leadership | Communication </strong></h4>
-Working within a global Fintech company created countless opportunities to work collaboratively, adapt swiftly to any environment, as well as develop my leadership skills. Within 2 months of joining the organisation, I took the responsibility of owning an entire Escrow Account process. This meant that I was dealing with both our clients in Ireland and customers from across the globe who needed to enter into Ireland for education. As the clients increased in number, I offered training and frequent virtual meetings with colleagues in Singapore, Spain and America as well as other departments such as the Operations team and our software engineers to keep them all updated and anticipate issues that may occur. I collaborated with our product managers to offer feedback and create tools to improve the processes. Coming from a sporting background to a Fintech and taking responsibility for an entire process within that short period of time is evidence that I enjoy adapting and thriving in a collaborative and ambitious space.
+Working within a global Fintech company created countless opportunities to work collaboratively, adapt to any environment, as well as develop my leadership skills. Within 2 months of joining the organisation, I took the responsibility of owning an entire Account process. This meant that I was assisting both our clients in Ireland and customers from across the globe to resolve issues. As the clients increased in number, I offered training and frequent virtual meetings with colleagues in Singapore, Spain and America as well as other departments such as the Operations team and our software engineers to keep them all updated and anticipate issues that may occur. I collaborated with our product managers to offer feedback and create tools to improve the processes. Coming from a sporting background to a Fintech and taking responsibility for an entire process within that short period of time is evidence that I enjoy adapting and thriving in a collaborative and ambitious space.
 <br>
 
 ## Education
@@ -177,7 +177,7 @@ _(September 2015 - June 2018)_
 - BSc Sports, Health, Exercise Sciences
 - 2.1
 
-**Loreto Convent - Letterkenny**
+**Loreto Convent Letterkenny**
 _(September 2014 - July 2015)_ 
 - Irish Leaving Certificate (Equivalent to A-Levels) 
 - Honours Level: Maths(B), Irish(B), English Literature(B), Physics & Chemistry(combined)(C), Biology(C), French(C)
