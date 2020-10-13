@@ -121,7 +121,7 @@ I am an ambitious, creative and self-motivated <strong>Full Stack Developer</str
 _Global Client Success Associate_
 
 Main Responsibilities:
-- Client facing role involving solving issues and providing support to our clients to ensure they were up to date with changes within the company.
+- Client facing role within this Fintech company involved solving issues and providing support to our clients to ensure they were up to date with changes within the company.
 - Worked with several tools including trello, salesforce lightning, zendesk, Jira, confluence to ensure completed quality work.
 - Gathered and analysed data for clients and proposed ways to enable them to grow in revenue.
 - Created appointments regularly with managers and colleagues to collect feedback.
@@ -164,7 +164,7 @@ Working within a global Fintech company created countless opportunities to work 
 **Makers Academy**
 _(June 2020 - September 2020)_
 
-A 16-week intensive Software Enginneering bootcamp
+A 16-week intensive Software Engineering bootcamp
 
 - The principles of object-oriented design and test-driven development
 - How to write and maintain clean, reliable code
@@ -179,7 +179,7 @@ _(September 2015 - June 2018)_
 
 **Loreto Convent - Letterkenny**
 _(September 2014 - July 2015)_ 
-- Irish Leavinng Certificate (Irish Equivalent to A-Levels) 
+- Irish Leaving Certificate (Equivalent to A-Levels) 
 - Honours Level: Maths(B), Irish(B), English Literature(B), Physics & Chemistry(combined)(C), Biology(C), French(C)
 
 ## Hobbies
@@ -188,7 +188,7 @@ _(September 2014 - July 2015)_
 - Outdoor 
 
 ## Things I am glad I did
-- I am glad I was relentless in my purrsuit to become a full stack developer.
+- I am glad I was relentless in my pursuit to become a full stack developer.
 - Stepping outside my comfort zone and into purpose, using my creativity and collaboration skills to my advantage to help raise money to build a school so children can have a safe, well ventilated and learning-friendly environment to grow.
 - Collaborated with 3 strangers in different countries at the start of covid-19, to help create a directory to help [domestic abuse victims](https://obscure-crag-98442.herokuapp.com/).
 
