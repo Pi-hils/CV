@@ -22,7 +22,10 @@
 
 
 <p align="center">
-I am an ambitious, creative and self-motivated <strong>Full Stack Developer</strong> who enjoys solving complex problems and helping my team to succeed. As I take genuine pleasure in dissecting concepts to examine what works best and why it works or does not work, I decided to study at one of Europe's leading coding bootcamp, Makers Academy.</p>
+I am an ambitious, creative and self-motivated <strong>Full Stack Developer</strong> who enjoys solving complex problems and helping my team to succeed. As I take genuine pleasure in dissecting concepts to examine what works best and why it works or does not work, I decided to study at one of Europe's leading coding bootcamps, Makers Academy.</p>
+
+## My Motivation
+<p align="center">During covid-19 pandemic, I tried to find ways in which I could be of help to others, hence along with 2 others, we created a web directory for victims of domestic abuse called <a href=https://github.com/Pi-hils/Maia>Maia</a>. As I was in the midst of completing a HTML, CSS course with <a href=https://codefirstgirls.org.uk/>Code First Girls</a>, I decided to bring the knowledge accumulated from the few weeks of the course onto the project. We spent our evenings(after work) and weekends doing standups and continuing with our project. Although we were all beginners with no background in programming, I found those few days really exciting and took pride each evening in learning and completing the project. Not only did this project solidify my motivation to transition into programming, but it gave me a sense of purpose.</p>
 
 <p align="center">I am looking for opportunities where I can continue to learn, whilst solving real-world problems with a team of ambitious people.
 </p>
