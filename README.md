@@ -16,7 +16,7 @@
 
 ## Who am I?
 
-<div align="center"><a href="https://serene-albattani-8a66fd.netlify.app" target="_black"/>www.hilda.com</a></div>
+<div align="center"><a href="https://serene-albattani-8a66fd.netlify.app" target="_black"/>My Website</a></div>
 <br>
 </div>
 
@@ -25,7 +25,8 @@
 I am an ambitious, creative and self-motivated <strong>Full Stack Developer</strong> who enjoys solving complex problems and helping my team to succeed. As I take genuine pleasure in dissecting concepts to examine what works best and why it works or does not work, I decided to study at one of Europe's leading coding bootcamps, Makers Academy.</p>
 
 ## My Motivation
-<p align="center">During covid-19 pandemic, I tried to find ways in which I could be of help to others, hence along with 2 others, we created a web directory for victims of domestic abuse called <a href=https://github.com/Pi-hils/Maia>Maia</a>. As I was in the midst of completing a HTML, CSS course with <a href=https://codefirstgirls.org.uk/>Code First Girls</a>, I decided to bring the knowledge accumulated from the few weeks of the course onto the project. We spent our evenings(after work) and weekends doing standups and continuing with our project. Although we were all beginners with no background in programming, I found those few days really exciting and took pride each evening in learning and completing the project. Not only did this project solidify my motivation to transition into programming, but it gave me a sense of purpose.</p>
+<p align="center">
+During covid-19 pandemic, I tried to find ways in which I could be of help to others, hence along with 2 others, we created a web directory for victims of domestic abuse called <a href=https://github.com/Pi-hils/Maia>Maia</a>. As I was in the midst of completing a HTML, CSS course with <a href=https://codefirstgirls.org.uk/>Code First Girls</a>, I decided to bring the knowledge accumulated from the few weeks of the course onto the project. We spent our evenings(after work) and weekends doing standups and continuing with our project. Although we were all beginners with no background in programming, I found those few days extremely satisfying and took pride in learning and working with people I did not know. Through this project, my communication skills, leadership and problem solving skills were enhanced.Not only did this project solidify my motivation to transition into programming, but it gave me a sense of purpose.</p>
 
 <p align="center">I am looking for opportunities where I can continue to learn, whilst solving real-world problems with a team of ambitious people.
 </p>
@@ -141,8 +142,8 @@ Main Responsibilities:
 _Intern_
 
 Main Responsibilities:
-- Completed a thorough research on pwc's clients and completed several pitching in front of Managers as well as receiving valuable feedback.
-- Prepared and quality checked each data and information given.
+- Organised a thorough research on some clients and completed several pitching in front of Managers as well as implemented valuable feedback.
+- Prepared and quality checked data given.
 - Assisted with the resolution of queries within my team.
 - Conducted various presentations in front of partners, managers and colleagues.
  
@@ -169,15 +170,15 @@ _(June 2020 - September 2020)_
 
 A 16-week intensive Software Engineering bootcamp
 
-- The principles of object-oriented design and test-driven development
-- How to write and maintain clean, reliable code
+- Learn the principles of object-oriented design and test-driven development
+- Write and maintain clean, reliable code
 - Pair-programming (driver-navigator format)
-- How to work in an agile development team with XP values
+- Work in an agile development team with XP values
 - Collaborate on GitHub projects with continuous integration and automated deployment
 
 **Brunel University**
 _(September 2015 - June 2018)_ 
-- BSc Sports, Health, Exercise Sciences
+- BSc Sports, Health, and Exercise Sciences
 - 2.1
 
 **Loreto Convent Letterkenny**
