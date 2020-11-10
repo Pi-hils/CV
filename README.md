@@ -26,7 +26,7 @@ I am an ambitious, creative and self-motivated <strong>Full Stack Developer</str
 
 ## My Motivation
 <p align="center">
-During covid-19 pandemic, I tried to find ways in which I could be of help to others, hence along with 2 others, we created a web directory for victims of domestic abuse called <a href=https://github.com/Pi-hils/Maia>Maia</a>. As I was in the midst of completing a HTML, CSS course with <a href=https://codefirstgirls.org.uk/>Code First Girls</a>, I decided to bring the knowledge accumulated from the few weeks of the course onto the project. We spent our evenings(after work) and weekends doing standups and continuing with our project. Although we were all beginners with no background in programming, I found those few days extremely satisfying and took pride in learning and working with people I did not know. Through this project, my communication skills, leadership and problem solving skills were enhanced.Not only did this project solidify my motivation to transition into programming, but it gave me a sense of purpose.</p>
+During covid-19 pandemic, I tried to find ways in which I could be of help to others, hence along with 2 others, we created a web directory for victims of domestic abuse called <a href=https://github.com/Pi-hils/Maia>Maia</a>. As I was in the midst of completing a HTML, CSS course with <a href=https://codefirstgirls.org.uk/>Code First Girls</a>, I decided to bring the knowledge accumulated over the few weeks I had on the course onto the project. We spent our evenings(after work) and weekends following Agile methodologies to successfully complete the project. Although we were all beginners with no background in programming, I found those few days extremely satisfying and took pride in learning and working with people I did not know. Through this project, my communication skills, leadership and problem solving skills were enhanced. Not only did this project solidify my motivation to transition into programming, but it gave me a sense of purpose.</p>
 
 <p align="center">I am looking for opportunities where I can continue to learn, whilst solving real-world problems with a team of ambitious people.
 </p>
@@ -125,11 +125,13 @@ During covid-19 pandemic, I tried to find ways in which I could be of help to ot
 _Global Client Success Associate_
 
 Main Responsibilities:
-- Client facing role within this Fintech company involved solving issues and providing support to our clients to ensure they were up to date with changes within the company.
+- Client facing role within this Fintech company involved solving complex issues.
+- Empathised with every customer to understand their individual needs and provided excellent customer support.
+- Successfully communicated with our non-technical and technical clients verbally and in writing to offer coherent explanations to any questions they may have had daily.
 - Worked with several tools including trello, salesforce lightning, zendesk, Jira, confluence to ensure completed quality work.
-- Gathered and analysed data for clients and proposed ways to enable them to grow in revenue.
-- Created appointments regularly with managers and colleagues to collect feedback.
-<!-- - Worked with the IT support team to ensure all data was deleted from ex-colleagues' computers and set up laptops for new colleagues. -->
+- Conducted client-company workshops for several of our clients in the Education sector to build trust between the company and our clients.
+- Organised regular meetings with managers and colleagues to collect feedback.
+
  
 <strong>Key achievements:</strong>
 <!-- - Created a training programme and helped train new employees starting on my team in different countries. -->
@@ -156,11 +158,11 @@ Main Responsibilities:
 ## Skills
 
 <h4><strong>Fast Learner | Adaptability</strong></h4>
-At Makers, we were continually pushed to stretch ourselves and develop our skills daily. With the concepts and topics used in learning Ruby, I was able to quickly pick up Ruby on Rails during a 2 weeks project to recreate Acebook. Javascript ES6 and the ES5 was no different when it was introduced in weeks 5 & 7. For our final group project, we took advantage of the opportunity we had and decided to learn the language in depth and hence used some JavaScript libraries including jQuery and Ajax to complete the project. Having no prior knowledge or background in any of these technologies, it was a testament to how fast I can adapt and learn new technologies in a collaborative environment.
+At Makers, we were continually pushed to stretch ourselves and develop our skills daily. With the concepts and topics used in learning Ruby, I was able to quickly pick up Ruby on Rails during a 2 weeks project to recreate Acebook. Javascript ES6 and the ES5 was no different when it was introduced in weeks 5 & 7. For our final group project, I took advantage of the opportunity I had and decided to learn the language in depth and hence used some JavaScript libraries including jQuery and Ajax to complete the project. Having no prior knowledge or background in any of these technologies, it was a testament to how fast I can learn new technologies in a collaborative environment, and the passion I have to grow.
 
 <br>
 <h4><strong>Teamwork | Leadership | Communication </strong></h4>
-Working within a global Fintech company created countless opportunities to work collaboratively, adapt to any environment, as well as develop my leadership skills. Within 2 months of joining the organisation, I took the responsibility of owning an entire Account process. This meant that I was assisting both our clients in Ireland and customers from across the globe to resolve issues. As the clients increased in number, I offered training and frequent virtual meetings with colleagues in Singapore, Spain and America as well as other departments such as the Operations team and our software engineers to keep them all updated and anticipate issues that may occur. I collaborated with our product managers to offer feedback and create tools to improve the processes. Coming from a sporting background to a Fintech and taking responsibility for an entire process within that short period of time is evidence that I enjoy adapting and thriving in a collaborative and ambitious space.
+Working within a global Fintech company created countless opportunities to work collaboratively, adapt to any environment, as well as develop my leadership skills. Within 2 months of joining the organisation, I took the responsibility of owning an entire Account process. This meant that I was assisting both our clients in Ireland and customers from across the globe to resolve issues. As the clients increased in number, I offered training and frequent virtual meetings with colleagues in Singapore, Spain and America as well as other departments such as the Operations team and our software engineers to keep them all updated and anticipate issues that may occur. I collaborated with our Product Managers to offer feedback and create tools to improve the processes. Coming from a Sport Science background to a Fintech and taking responsibility for an entire process within that short period of time is evidence that I enjoy adapting and thriving in a collaborative and ambitious space.
 <br>
 
 ## Education
