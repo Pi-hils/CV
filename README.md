@@ -135,7 +135,7 @@ Main Responsibilities:
  
 <strong>Key achievements:</strong>
 <!-- - Created a training programme and helped train new employees starting on my team in different countries. -->
-- Owned and took responsibility of an entire process and trained all my colleagues around the world as well being in charge of
+- Owned and took responsibility of an entire process and trained all my colleagues around the world.
 - Youngest person in the company and first person in the London office to be chosen amongst 6 others, internationally to represent the company in Guatemala to help build a [school for the kids](https://www.instagram.com/p/Bum4pSSlPpJ/?utm_source=ig_web_copy_link).
 - Smoothly learned and transitioned all data from salesforce to zendesk to provide support to our clients which was more cost effective for the company.
 
