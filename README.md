@@ -5,7 +5,7 @@
 
  <div align="center">
  
- [![Employment status !](https://img.shields.io/badge/Employment%20status-pending..-1abc9c.svg)](https://github.com/Pi-hils)
+ [![Status !](https://img.shields.io/badge/status-we_coding..-1abc9c.svg)](https://github.com/Pi-hils)
 
 
 [Projects](#projects) |
@@ -37,6 +37,7 @@ During covid-19 pandemic, I tried to find ways in which I could be of help to ot
 
 [![LinkedIn Profile]](https://www.linkedin.com/in/hilda-amponsah-0a0129124/)
 [![Email]](mailto:hilda.amp@hotmail.com)
+[![Medium Profile]](https://hilda-amp.medium.com/)
 [![GitHub Profile]](https://github.com/Pi-hils)
 
 </div>
@@ -69,6 +70,7 @@ During covid-19 pandemic, I tried to find ways in which I could be of help to ot
           <li>Ruby</li>
           <li>HTML5</li>
           <li>CSS3</li>
+          <li>React</li>
         </ul>
       </td>
       <td style="vertical-align: top">
@@ -182,11 +184,6 @@ A 16-week intensive Software Engineering bootcamp
 _(September 2015 - June 2018)_ 
 - BSc Sports, Health, and Exercise Sciences
 - 2.1
-
-**Loreto Convent Letterkenny**
-_(September 2014 - July 2015)_ 
-- Irish Leaving Certificate (Equivalent to A-Levels) 
-- Honours Level: Maths(B), Irish(B), English Literature(B), Physics & Chemistry(combined)(C), Biology(C), French(C)
 
 ## Hobbies
 - Traveling
