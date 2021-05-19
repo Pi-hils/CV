@@ -37,8 +37,9 @@ During covid-19 pandemic, I tried to find ways in which I could be of help to ot
 
 [![LinkedIn Profile]](https://www.linkedin.com/in/hilda-amponsah-0a0129124/)
 [![Email]](mailto:hilda.amp@hotmail.com)
-[![Medium Profile]](https://hilda-amp.medium.com/)
-[![GitHub Profile]](https://github.com/Pi-hils)
+
+[![GitHub Profile]](https://github.com/Pi-hils)<br>
+[Medium](https://hilda-amp.medium.com)
 
 </div>
 
