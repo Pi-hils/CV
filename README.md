@@ -47,6 +47,7 @@ During covid-19 pandemic, I tried to find ways in which I could be of help to ot
 |--|--|--|--|--|
 | [spotiPhyte](https://github.com/Pi-hils/spotiPhyte-1)| Final Project at Makers Academy. A team of 5 came together and merged our ideas and passion to learn, push ourselves and make.| JavaScript, Node.JS, HTML5/CSS, Spotify API, Jquery, Express, Bootstrap 4| Jest, Travis CI & CD |[Heroku](https://spotiphyte.herokuapp.com/)|
 | [Makersbnb](https://github.com/Pi-hils/makersbnb) | A team of 5 came together to complete our first team project to recreate our own version of Airbnb. | Ruby, Bootstrap 4, HTML, CSS, Sinatra, PostgreSQL, Bcrypt | RSpec| N/A |
+| [Numbers Facts](https://github.com/Pi-hils/js_DOM/tree/main/Vanilla_API_NoFacts) | Using a json API from numbers api(website) and a bit of CSS and create generate facts about numbers. | JavaScript, HTML, CSS, Number's API, Ajax | - | tbc |
 | [Bank Tech Test](https://github.com/Pi-hils/bank_tech_test) | A command line program emulating a bank account, showcasing test driven development. | Ruby | RSpec| N/A |
 | [Maia](https://github.com/Pi-hils/Maia)| Pre Makers project created by a team of 3 coding beginners to help domestic abuse victims.| HTML,CSS, Bootstrap 4, Python | N/A | [Heroku ](https://obscure-crag-98442.herokuapp.com/)|
 
@@ -70,12 +71,13 @@ During covid-19 pandemic, I tried to find ways in which I could be of help to ot
           <li>Ruby</li>
           <li>HTML5</li>
           <li>CSS3</li>
-          <li>React</li>
         </ul>
       </td>
       <td style="vertical-align: top">
         <ul>
           <li>Bootstrap 4</li>
+          <li>Angular Framework</li>
+          <li>React</li>
           <li>Node.js</li>
           <li>Rails</li>
           <li>Sinatra</li>
@@ -142,7 +144,7 @@ Main Responsibilities:
 - Smoothly learned and transitioned all data from salesforce to zendesk to provide support to our clients which was more cost effective for the company.
 
 
-**[PricewaterhouseCoopers (PwC)](https://www.pwc.co.uk/who-we-are/regional-sites/south-east/offices/uxbridge-office.html),  (June 2017 - June 2017)**<br>
+**[PricewaterhouseCoopers (PwC)](https://www.pwc.co.uk/who-we-are/regional-sites/south-east/offices/uxbridge-office.html)  (June 2017 - June 2017)**<br>
 _Intern_
 
 Main Responsibilities:
